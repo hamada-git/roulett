@@ -1,0 +1,41 @@
+#large_block {
+    background-color: #000000;
+    width: 300px;
+    height: 350px;
+    padding: 30px;
+}
+
+
+#matrix {
+    background-color: #ffffff;
+    height: 300px;
+    width: 300px;
+}
+
+#button {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+table, tr, td {
+    border: solid 1px;
+}
+
+td {
+    padding: 5px;
+    text-align: center;
+}
+
+.light_up_pink {
+    background-color: #FFABCE;
+}
+
+.light_up_gray {
+    background-color: #ccc;
+}
+
+.light_up_pink.light_up_gray {
+    background-color: #FF0000;
+}
+
