@@ -18,12 +18,24 @@
 <br>
 <br>
 ![roulette-3.png](https://github.com/hamada-git/roulette/blob/master/roulette-3.png)<br>
-ストップボタンを押すと、 どこか1つのマスでシャッフルが停止し、マス目が赤色に変わります。<br>
+ストップボタンを押すと、 シャッフルが停止し、どこか1つのマス目が、赤色に変わります。<br>
 <br>
 <br>
 <br>
 ![roulette-4.png](https://github.com/hamada-git/roulette/blob/master/roulette-4.png)<br>
-
-
-
-
+ストップボタンを押した後にスタートボタンを押すと、再びシャッフルが始まります。<br>
+一度停止したマスは灰色に変わり、抽選から除外されます。<br>
+<br>
+<br>
+<br>
+以降は繰り返しで、スタートとストップにより、ルーレットの回転と停止が最大16回行われます。<br>
+<br>
+<br>
+<br>
+![roulette-5.png](https://github.com/hamada-git/roulette/blob/master/roulette-5.png)<br>
+16回の抽選が終わると、リセットボタン以外のボタンは押せなくなります。<br>
+<br>
+<br>
+<br>
+![roulette-1.png](https://github.com/hamada-git/roulette/blob/master/roulette-1.png)<br>
+リセットボタンを押すと、最初の状態に戻り、抽選を始めることが出来ます。<br>
