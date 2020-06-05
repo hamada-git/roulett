@@ -18,7 +18,7 @@
 <br>
 <br>
 ![roulette-3.png](https://github.com/hamada-git/roulette/blob/master/roulette-3.png)<br>
-ストップボタンを押すと、 シャッフルが停止し、どこか1つのマス目が、赤色に変わります。<br>
+ストップボタンを押すと、 シャッフルが停止し、どこか1つのマス目が赤色に変わります。<br>
 <br>
 <br>
 <br>
